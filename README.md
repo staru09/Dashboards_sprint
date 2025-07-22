@@ -49,6 +49,3 @@ This project involves analyzing and cleaning the dataset provided by Swiggy. Swi
 - Use Power Query to make necessary transformations such as merging tables and extracting date components.
 - Establish relationships between tables using primary and foreign keys.
 - Create various visualizations to uncover trends and insights.
-
-## 🔍 Insights
-- Found useful insights such as vegetarian options leading to 122 million in sales, 7.2% higher than non-vegetarian; the top 10% of customers accounting for 80% of sales; and Tirupati city recording the highest order amount at 43 million.
